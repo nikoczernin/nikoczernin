@@ -1,5 +1,5 @@
-Hi, I’m Niko — @nikoczernin
-I am a Data Scientist
+Hi, I’m Niko — @nikoczernin.
+I am a Data Scientist.
 My passion is to find modern solutions to modern business problems.
 I love to work creatively, be it coding, design or music. 
 
